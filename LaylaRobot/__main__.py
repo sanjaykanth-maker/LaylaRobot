@@ -74,15 +74,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello, I'M Layla
+Hello 𝙄 𝙖𝙢 𝙗𝙚𝙨𝙩 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙧
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-Maintained by @HEROGAMERS1 ❤
+Maintained by @tele_united_bots ❤
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/LaylaRobot?startgroup=true"),
+            text="➕️ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/tele_united_bots?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="layla_"),
@@ -91,9 +91,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/laylalogs"),
+        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/tele_united_bots"),
         InlineKeyboardButton(
-            text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/AntiRippingOrganization/410"
+            text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/tele_united_bots"
         ),
     ],
     [
@@ -103,9 +103,9 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'M` Layla
+`Hi.. I'M` group manager
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
-Powered by :- [Awesome Bots](t.me/Laylalist)"""
+Powered by :- [united bots](t.me/tele_united_bots)"""
 
 layla_IMG = "https://telegra.ph/file/524b78577a42b02b2f074.jpg"
 

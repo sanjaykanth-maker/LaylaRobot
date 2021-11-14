@@ -20,4 +20,6 @@ __help__ = """
 ❍ /end - stop music play
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /admincache - Refresh admin list
-works only in @tele_united_bots join to ehar music
+=>>   *Use*
+1) join @tele_united_bots to hear music 
+"""
